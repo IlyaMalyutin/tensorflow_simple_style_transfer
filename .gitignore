@@ -1,0 +1,4 @@
+*.pyc
+vgg_weights/*
+*.tfmodel
+*.gz
